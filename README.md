@@ -28,7 +28,7 @@ Vi brugte system.out.println til hvert kort og kulør, og satte det hele i en Ma
 
 I denne opgave skulle jeg finde arealet af en cirkel, med den radius som brugeren indsætter. 
 Her skulle jeg lave en Scanner, som tillod brugeren at skrive en værdi, som så blev sat som radius. 
-Jeg skulle også bruge Math pakken igen (Math.sin) til at finde arealet. I denne opgave lærte jeg derfor at bruge Math klassen bedre samt lave en Scanner.
+Jeg skulle også bruge Math pakken igen (Math.sin) til at finde arealet. I denne opgave lærte jeg derfor at bruge Math klassen bedre samt lave en Scanner. 
 
 
 
